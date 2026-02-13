@@ -25,7 +25,3 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anarand&show_icons=true&theme=default)
-
-
