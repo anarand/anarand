@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** na FIAP  
 💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC  
-📊 Jovem Aprendiz em **Métricas de Software** na Indra
+📊 Estagiária em **Engenharia de Software** 
 
 ---
 
