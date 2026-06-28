@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** na FIAP  
 💻 Técnica em **Desenvolvimento de Sistemas** pela ETEC  
-📊 Estagiária em **Engenharia de Software** 
+📊 Estagiária em **Engenharia de Software** com foco em .NET e desenvolvimento de IA
 
 ---
 
